@@ -4,35 +4,39 @@
     "url": "https://map.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/map.themesh.live.ico",
     "slug": "map-the-mesh-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 475,
-    "timeWeek": 497,
-    "timeMonth": 481,
-    "timeYear": 465,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 451,
+    "timeWeek": 487,
+    "timeMonth": 478,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "MapTheMesh API",
     "url": "https://api.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.themesh.live.ico",
     "slug": "map-the-mesh-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 992,
-    "timeWeek": 610,
-    "timeMonth": 506,
-    "timeYear": 489,
-    "dailyMinutesDown": {}
+    "time": 541,
+    "timeDay": 1488,
+    "timeWeek": 807,
+    "timeMonth": 576,
+    "timeYear": 541,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   }
 ]
