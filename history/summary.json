@@ -4,19 +4,19 @@
     "url": "https://map.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/map.themesh.live.ico",
     "slug": "map-the-mesh-main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 451,
-    "timeWeek": 487,
-    "timeMonth": 478,
-    "timeYear": 463,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 464,
+    "timeDay": 461,
+    "timeWeek": 488,
+    "timeMonth": 479,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.themesh.live.ico",
     "slug": "map-the-mesh-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 1488,
-    "timeWeek": 807,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 542,
+    "timeDay": 1308,
+    "timeWeek": 791,
     "timeMonth": 576,
-    "timeYear": 541,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 21
     }
   }
 ]
