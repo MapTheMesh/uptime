@@ -1,7 +1,7 @@
 url: https://api.themesh.live/up
-status: up
-code: 200
-responseTime: 306
-lastUpdated: 2024-10-14T23:17:18.062Z
+status: down
+code: 503
+responseTime: 2973
+lastUpdated: 2024-10-15T08:12:41.315Z
 startTime: 2024-09-05T12:31:40.412Z
 generator: Upptime <https://github.com/upptime/upptime>
