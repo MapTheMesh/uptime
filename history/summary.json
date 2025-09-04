@@ -4,10 +4,10 @@
     "url": "https://map.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/map.themesh.live.ico",
     "slug": "map-the-mesh-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
@@ -16,6 +16,7 @@
     "timeMonth": 769,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2025-09-04": 1,
       "2024-10-15": 21
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.themesh.live/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.themesh.live.ico",
     "slug": "map-the-mesh-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 511,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2024-10-15": 21
     }
   }
